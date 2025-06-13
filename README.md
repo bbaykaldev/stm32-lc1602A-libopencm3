@@ -2,6 +2,8 @@
 
 This project shows how to control a 1602A LCD in 4-bit mode using an STM32 Blue Pill (STM32F103C8T6) and the libopencm3 low-level C library. The C file contains a full working example code.
 
+🎥 **Watch the full tutorial video**: [(https://youtu.be/5cpHbmTl8fA)]
+
 ---
 
 ## 🔌 Wiring
